@@ -1,0 +1,8 @@
+S src/
+S src/clib/
+S src/parser
+
+B src/
+B src/clib/
+B src/parser
+

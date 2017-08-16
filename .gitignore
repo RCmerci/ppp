@@ -1,0 +1,12 @@
+*.cm*
+*.o
+*.a
+*.html
+Makefile
+*.Po
+*.css
+a.out
+all
+*_gen.ml
+main
+tmp.*
