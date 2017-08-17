@@ -10,3 +10,4 @@ all
 *_gen.ml
 main
 tmp.*
+Makefile.in

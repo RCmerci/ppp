@@ -6,3 +6,4 @@ B src/
 B src/clib/
 B src/parser
 
+PKG cstruct
